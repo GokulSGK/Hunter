@@ -20,7 +20,7 @@ public class Cardshuffle {
 		Collections.shuffle(al, j);
 		for(Integer o:al)
 		{
-			System.out.println(o);
+			System.out.print(o+" ");
 		}
 
 	}
