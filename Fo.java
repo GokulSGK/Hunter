@@ -13,7 +13,7 @@ public class Fo {
 		String s2=s.nextLine();
 		if(s1.indexOf(s2)>=0)
 		{
-			System.out.print(s1.indexOf(s2));
+			System.out.print(s1.indexOf(s1));
 		}
 		else
 		{
